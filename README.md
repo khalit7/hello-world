@@ -1,3 +1,5 @@
 # hello-world
 my_first_repository
-how abt dat
+''' printing jello world '''
+''' using python 3'''
+print('hello world')
